@@ -10,6 +10,8 @@
 
 <body>
     <h1>Tabuada com PHP</h1>
+    <p>Atividade das aulas de PHP</p>
+
     <form action="resultado.php" method="post">
         
         <p>Tabuada: <input type="text" name="num1"></p>
